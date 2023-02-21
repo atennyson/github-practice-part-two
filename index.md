@@ -12,3 +12,8 @@ for num in mylist:
 print(answer)
 
 ```
+ 
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfoloio
+- [ ] Introduce myself to the world
